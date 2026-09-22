@@ -203,8 +203,7 @@ of real-world predictive performance.
 ---
 
 # Project Files
-
-- Projet python kanga blengbi.ipynb — Complete Python analysis,
+`quick_commerce_analysis.ipynb`— Complete Python analysis,
   visualizations and predictive modeling.
 
 ---
